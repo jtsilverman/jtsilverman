@@ -1,14 +1,10 @@
-## Hi, I'm Jake
+# Jake Silverman
 
-Build and deploy autonomous agents: production deployments and open-source tooling.
+Build autonomous AI agents, the data infrastructure under them, and the open-source tooling around them.
 
-**Day:** Data Engineer at PwC, Customs & International Trade. North America winner, PwC Transfer Pricing AI competition.
+Data Engineer at PwC, Customs & International Trade. North America winner, PwC Transfer Pricing AI competition.
 
-**Off-hours:** personal AI infrastructure across 4 networked machines.
-
----
-
-### What I'm building
+## Projects
 
 - **Rock** *(private)*: 24/7 multi-channel agent platform on Mac Mini M4; 11 Discord-fronted Claude Code sessions.
 - **Agnes** *(private)*: production AI Executive Assistant for an Agman Partners executive.
@@ -23,8 +19,10 @@ Build and deploy autonomous agents: production deployments and open-source tooli
 - **[browser-bench](https://github.com/jtsilverman/browser-bench)**: browser automation challenges for agents.
 - **[ctxpeek](https://github.com/jtsilverman/ctxpeek)**: VS Code extension surfacing GitHub Copilot context exposure.
 
----
+## Stack
 
-**Stack:** Python, Go, Rust, TypeScript, Claude Code, MCP, Anthropic SDK
+Python, Go, Rust, TypeScript, Claude Code, MCP, Anthropic SDK
 
-**Reach me:** jtsilverman8@gmail.com · [LinkedIn](https://linkedin.com/in/jacob-silverman1/)
+## Contact
+
+jtsilverman8@gmail.com · [LinkedIn](https://www.linkedin.com/in/jacob-silverman1/)
