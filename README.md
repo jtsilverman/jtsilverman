@@ -31,13 +31,6 @@ I build and deploy autonomous agents: production deployments and open-source too
 - [council](https://github.com/jtsilverman/council): multi-perspective LLM deliberation CLI. Expert personas review, debate, and synthesize
 - [browser-bench](https://github.com/jtsilverman/browser-bench): Advent-of-Code-style browser automation challenges for agents
 
-**Other**
-- [codemap](https://github.com/jtsilverman/codemap): interactive HTML architecture map for any codebase (Tree-sitter + D3)
-- [supply-scan](https://github.com/jtsilverman/supply-scan): Rust CLI that scans deps for malicious, typosquatted, and AI-hallucinated packages
-- [dep-diet](https://github.com/jtsilverman/dep-diet): Rust CLI flagging JS dependency bloat
-- [app-xray](https://github.com/jtsilverman/app-xray): Android APK privacy auditor (trackers, permissions, endpoints)
-- [market-signals](https://github.com/jtsilverman/market-signals): real-time prediction market + GDELT news correlation dashboard
-
 ---
 
 **Stack:** Python, Go, Rust, TypeScript, Claude Code, MCP, Anthropic SDK
