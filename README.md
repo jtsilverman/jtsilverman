@@ -20,7 +20,7 @@ I build and deploy autonomous agents: production deployments and open-source too
 - [travel-concierge](https://github.com/jtsilverman/travel-concierge): self-hostable AI travel planner; chat with Claude to search flights/hotels/restaurants and build a visual itinerary
 
 **Improving how agents work**
-- [agentdiff](https://github.com/jtsilverman/agentdiff): pytest for AI agents. Snapshot behavior, diff across changes, catch silent regressions
+- [tracediff](https://github.com/jtsilverman/tracediff): pytest for AI agents. Snapshot behavior, diff across changes, catch silent regressions
 - [mcpprof](https://github.com/jtsilverman/mcpprof): transparent STDIO proxy that profiles MCP agent sessions for per-tool latency, error rates, message counts
 - [skillscore](https://github.com/jtsilverman/skillscore): quality scorer for Claude Code skills, graded against Anthropic's official best practices
 - [probe](https://github.com/jtsilverman/probe): zero-config AI code review CLI. Catches AI-generated code anti-patterns linters miss
