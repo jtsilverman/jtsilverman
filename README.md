@@ -21,13 +21,13 @@ I build and deploy autonomous agents: production deployments and open-source too
 
 **Improving how agents work**
 - [tracediff](https://github.com/jtsilverman/tracediff): pytest for AI agents. Snapshot behavior, diff across changes, catch silent regressions
-- [mcpprof](https://github.com/jtsilverman/mcpprof): transparent STDIO proxy that profiles MCP agent sessions for per-tool latency, error rates, message counts
-- [skillscore](https://github.com/jtsilverman/skillscore): quality scorer for Claude Code skills, graded against Anthropic's official best practices
+- [proxyprof](https://github.com/jtsilverman/proxyprof): transparent STDIO proxy that profiles MCP agent sessions for per-tool latency, error rates, message counts
+- [policygrade](https://github.com/jtsilverman/policygrade): quality scorer for Claude Code skills, graded against Anthropic's official best practices
 - [probe](https://github.com/jtsilverman/probe): zero-config AI code review CLI. Catches AI-generated code anti-patterns linters miss
-- [copilot-guard](https://github.com/jtsilverman/copilot-guard): VS Code extension showing what context GitHub Copilot has access to
+- [ctxpeek](https://github.com/jtsilverman/ctxpeek): VS Code extension showing what context GitHub Copilot has access to
 
 **Multi-model evaluation**
-- [arc-playground](https://github.com/jtsilverman/arc-playground): pit Claude, GPT-4o, and Gemini against ARC-AGI-3 reasoning puzzles in the browser
+- [gridplay](https://github.com/jtsilverman/gridplay): pit Claude, GPT-4o, and Gemini against ARC-AGI-3 reasoning puzzles in the browser
 - [council](https://github.com/jtsilverman/council): multi-perspective LLM deliberation CLI. Expert personas review, debate, and synthesize
 - [browser-bench](https://github.com/jtsilverman/browser-bench): Advent-of-Code-style browser automation challenges for agents
 
